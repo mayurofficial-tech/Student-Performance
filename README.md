@@ -62,7 +62,7 @@ This project is a Power BI dashboard that analyzes student academic performance,
 
 ### Behavioral Dashboard
 
-![Behavioral](images/Behavioral.png)
+
 
 ### Student Drillthrough
 
