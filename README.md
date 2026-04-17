@@ -1,5 +1,9 @@
 # 🎓 Student Performance Dashboard (Power BI)
 
+## 🎥 Dashboard Demo
+
+[Watch Video](dashboard video/video.mp4)
+
 ## 📌 Project Overview
 
 This project is a Power BI dashboard that analyzes student academic performance, attendance, and behavior.
