@@ -2,7 +2,7 @@
 
 ## 🎥 Dashboard Demo
 
-[Watch Video](dashboard video/video.mp4)
+[Watch Video](dashboard-video/video.mp4)
 
 ## 📌 Project Overview
 
