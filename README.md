@@ -4,6 +4,24 @@
 
 [Watch Video](dashboard-video/video.mp4)
 
+---
+
+## 📸 Dashboard Preview
+
+### Academic Dashboard
+
+![Academic](images/Academic.png)
+
+### Behavioral Dashboard
+
+![Behavioral](images/Behavioral1.png)
+
+### Student Drillthrough
+
+![Student](images/Student.png)
+
+---
+
 ## 📌 Project Overview
 
 This project is a Power BI dashboard that analyzes student academic performance, attendance, and behavior.
@@ -56,23 +74,7 @@ This project is a Power BI dashboard that analyzes student academic performance,
 * DAX
 * Data Modeling
 
----
 
-## 📸 Dashboard Preview
-
-### Academic Dashboard
-
-![Academic](images/Academic.png)
-
-### Behavioral Dashboard
-
-![Behavioral](images/Behavioral1.png)
-
-### Student Drillthrough
-
-![Student](images/Student.png)
-
----
 
 ## 📄 Documentation
 
